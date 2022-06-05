@@ -1,0 +1,17 @@
+.app_normal{
+    background-color: #dfe6e9;
+    margin: 10px;
+    box-shadow: 0 0 10px 1px black;
+    padding: 10px;
+    border-radius: 5px;
+    display: block;
+}
+
+.app_normal > h1{
+    font-style: italic;
+}
+
+.deon{
+    display: flex;
+    margin-top: -20px;
+}

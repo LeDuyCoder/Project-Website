@@ -1,0 +1,54 @@
+.tag_apps{
+    margin-top: 20px;
+    width: fit-content;
+	background-color: white;
+	color: #666;
+    box-shadow: 0 0 5px 1px black;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 12px;
+}
+
+.tag_apps > a{
+    display: block;
+    margin: 5px auto;
+}
+
+.imgs > img{
+    display: block;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 1px black;
+}
+
+#image{
+    border-radius: 50px;
+}
+
+.app_normal{
+    display: flex;
+}
+
+.tb{
+    margin-top: 20px;
+	width:50%;
+	background-color: white;
+	color: #666;
+    box-shadow: 0 0 10px 1px black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+nav{
+    display: block;
+    box-shadow: 0 0 10px 1px black;
+    border-radius: 5px;
+}
+
+nav > #menu_list{
+    padding: 0px;
+    font-family: "Time New Roman";
+}
+
+.app_normal{
+    overflow-x: auto;
+}
